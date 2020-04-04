@@ -1,0 +1,9 @@
+build/
+*.ihx
+*.lst
+*.rst
+*.sym
+*.rel
+*.map
+*.lk
+
